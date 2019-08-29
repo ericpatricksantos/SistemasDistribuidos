@@ -8,14 +8,14 @@ O mestre receberá uma palavra aleatória e os outros usuários perguntarão cad
 O mestre responderá sim ou não para as perguntas do usuários.
 As respostas serão enviadas para todos os usuários. O primeiro que acertar, a rodada termina e o sistema verifica se o usuário ganhou se não outra rodada inicia. 
 
-Componentes:
+<br>Componentes:
 Cliente: regra do jogo
 Servidor: escolher quem vai jogar, processar os dados dos usuários
 Banco de dados: armazenar as palavras 
 
 Linguagem: Java
 
-Testes:
+<br>Testes:
 O mestre caiu a conexão ou saiu do jogo: espera 1 minuto e se ele não voltar começa outra partida
 O usuário que pergunta caiu: espera 1 minuto e se ele não voltar verifica a quantidade de usuários se for inferior a quantidade mínima inicia outra partida se não continua a partida sem o usuário.
 Demonstrar que muitos clientes podem acessar o serviço ao mesmo tempo, sem comportamentos estranhos.
