@@ -19,3 +19,4 @@ Testes:
 O mestre caiu a conexão ou saiu do jogo: espera 1 minuto e se ele não voltar começa outra partida
 O usuário que pergunta caiu: espera 1 minuto e se ele não voltar verifica a quantidade de usuários se for inferior a quantidade mínima inicia outra partida se não continua a partida sem o usuário.
 Demonstrar que muitos clientes podem acessar o serviço ao mesmo tempo, sem comportamentos estranhos.
+Mostrar que as funcionalidades estão funcionando.
