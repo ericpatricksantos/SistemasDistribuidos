@@ -9,9 +9,9 @@ O mestre responderá sim ou não para as perguntas do usuários.
 As respostas serão enviadas para todos os usuários. O primeiro que acertar, a rodada termina e o sistema verifica se o usuário ganhou se não outra rodada inicia. 
 
 Componentes:<br>
-Cliente: regra do jogo
-Servidor: escolher quem vai jogar, processar os dados dos usuários
-Banco de dados: armazenar as palavras 
+Cliente: regra do jogo<br>
+Servidor: escolher quem vai jogar, processar os dados dos usuários<br>
+Banco de dados: armazenar as palavras <br>
 
 Linguagem: Java
 
