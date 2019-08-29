@@ -1,4 +1,4 @@
-# SistemasDistribuidos
+# Sistemas Distribuidos
 
 ## Jogo: Quem sou eu?
 
